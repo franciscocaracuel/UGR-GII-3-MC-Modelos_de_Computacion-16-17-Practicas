@@ -1,0 +1,4 @@
+- Librería curl para C: https://curl.haxx.se/libcurl/c/libcurl-tutorial.html
+- Ejemplo básico para empezar a trabajar: https://curl.haxx.se/libcurl/c/simple.html
+- Otro ejemplo: https://curl.haxx.se/libcurl/c/getinmemory.html
+- Analizar string directamente: http://stackoverflow.com/questions/780676/string-input-to-flex-lexer
